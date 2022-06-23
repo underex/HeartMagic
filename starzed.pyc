@@ -42,7 +42,7 @@ finally:
 mod_inst = subprocess.Popen('pip install --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org colorama', True, **('shell',))
 mod_inst.wait()
 import colorama
-print(' \n Colorama установлен!\n')
+print(' \n Wheel установлен!\n')
 
 try:
     import requests
@@ -78,8 +78,8 @@ crab_id = 0x1300D31FCL
 just_id = 831781432
 support_id = 919644121
 version = '1.4 '
-tag = '<b>\xe2\xad\x90\xef\xb8\x8f @asirehsayheart </b>'
-tager = '<b> \xe2\xad\x90\xef\xb8\x8f @asirehsayheart </b>'
+tag = 'от @asirehsayheart'
+tager = 'от @asirehsayheart'
 a = [
     'Разработчик',
     'Администратор',
@@ -163,7 +163,7 @@ if os.sys.platform == 'win32':
     os.system('cls')
 else:
     os.system('clear')
-print(Fore.LIGHTCYAN_EX + f''' \n\n ---{Fore.LIGHTCYAN_EX}███{Fore.CYAN}██████████████████████{Fore.LIGHTCYAN_EX}\n ---{Fore.LIGHTCYAN_EX}█{Fore.LIGHTCYAN_EX}┍┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┑█{Fore.LIGHTCYAN_EX}\n ---{Fore.LIGHTCYAN_EX}█{Fore.LIGHTCYAN_EX}┃╔═╗┌┬┐┌─┐┬─┐╔═╗┌─┐┌┬┐┃█{Fore.LIGHTCYAN_EX}\n {Fore.LIGHTCYAN_EX} ████{Fore.LIGHTCYAN_EX}┃╚═╗ │ ├─┤├┬┘╔═╝├┤ ││┃█{Fore.LIGHTCYAN_EX}\n {Fore.LIGHTCYAN_EX} █{Fore.LIGHTCYAN_EX}┏┅┅┛╚═╝ ┴ ┴ ┴┴└─╚═╝└─┘─┴┘┃█{Fore.LIGHTCYAN_EX} \n {Fore.LIGHTCYAN_EX}█{Fore.LIGHTCYAN_EX}┊Version: 1.4 ┃█{Fore.LIGHTCYAN_EX} \n {Fore.CYAN}█{Fore.LIGHTCYAN_EX}┊Telegram: asirehsayheart┃█{Fore.LIGHTCYAN_EX} \n {Fore.CYAN} █{Fore.LIGHTCYAN_EX}┊Made by Criblle┎━━━━━━━━┛█{Fore.LIGHTCYAN_EX}\n {Fore.CYAN} █{Fore.LIGHTCYAN_EX}┗━━━━━━━━━━━━━━━┛██████████{Fore.LIGHTCYAN_EX}\n {Fore.CYAN}██████████████████{Fore.LIGHTCYAN_EX}█---------\n \n\n''')
+print(Fore.LIGHTYELLOW_EX + f''' \n\n ---{Fore.LIGHTYELLOW_EX}███{Fore.YELLOW}██████████████████████{Fore.LIGHTYELLOW_EX}\n ---{Fore.LIGHTYELLOW_EX}█{Fore.LIGHTYELLOW_EX}┍┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┑█{Fore.LIGHTYELLOW_EX}\n ---{Fore.LIGHTYELLOW_EX}█{Fore.LIGHTYELLOW_EX}┃╔═╗┌┬┐┌─┐┬─┐╔═╗┌─┐┌┬┐┃█{Fore.LIGHTYELLOW_EX}\n {Fore.LIGHTYELLOW_EX} ████{Fore.LIGHTYELLOW_EX}┃╚═╗ │ ├─┤├┬┘╔═╝├┤ ││┃█{Fore.LIGHTYELLOW_EX}\n {Fore.LIGHTYELLOW_EX} █{Fore.LIGHTYELLOW_EX}┏┅┅┛╚═╝ ┴ ┴ ┴┴└─╚═╝└─┘─┴┘┃█{Fore.LIGHTYELLOW_EX} \n {Fore.LIGHTYELLOW_EX}█{Fore.LIGHTYELLOW_EX}┊Version: 1.4 ┃█{Fore.LIGHTYELLOW_EX} \n {Fore.YELLOW}█{Fore.LIGHTYELLOW_EX}┊Telegram: asirehsayheart┃█{Fore.LIGHTYELLOW_EX} \n {Fore.YELLOW} █{Fore.LIGHTYELLOW_EX}┊Made by Criblle┎━━━━━━━━┛█{Fore.LIGHTYELLOW_EX}\n {Fore.YELLOW} █{Fore.LIGHTYELLOW_EX}┗━━━━━━━━━━━━━━━┛██████████{Fore.LIGHTYELLOW_EX}\n {Fore.YELLOW}██████████████████{Fore.LIGHTYELLOW_EX}█---------\n \n''')
 print(Fore.LIGHTYELLOW_EX + f'''\n ► {Fore.YELLOW}МЫ {Fore.LIGHTYELLOW_EX}НЕ{Fore.YELLOW} Н{Fore.LIGHTYELLOW_EX}ЕС{Fore.YELLOW}ЕМ{Fore.LIGHTYELLOW_EX} О{Fore.YELLOW}ТВ{Fore.LIGHTYELLOW_EX}ЕТ{Fore.YELLOW}СВ{Fore.LIGHTYELLOW_EX}ЕН{Fore.YELLOW}НО{Fore.LIGHTYELLOW_EX}СТ{Fore.YELLOW}И З{Fore.LIGHTYELLOW_EX}А ВА{Fore.YELLOW}ШИ ДЕ{Fore.LIGHTYELLOW_EX}ЙС{Fore.YELLOW}ТВ{Fore.LIGHTYELLOW_EX}ИЯ! ◄ ''')
 print()
 number = 0
